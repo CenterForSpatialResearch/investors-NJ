@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+API-KEY.txt
+data/process/
+data/census/Govt_census_block_2010/
+00_nj-geo_eda.ipynb
