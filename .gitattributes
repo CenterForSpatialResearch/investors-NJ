@@ -6,3 +6,5 @@
 *.sbn filter=lfs diff=lfs merge=lfs -text
 *.prj, filter=lfs diff=lfs merge=lfs -text
 *.sbx, filter=lfs diff=lfs merge=lfs -text
+*.sbn, filter=lfs diff=lfs merge=lfs -text
+*.sbx filter=lfs diff=lfs merge=lfs -text
